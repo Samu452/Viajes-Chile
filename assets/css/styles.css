@@ -7,7 +7,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.footer .iconos a{
-  color: white;
-  text-decoration: none;
+#footer .iconos a{
+  color: white !important;
+  text-decoration: none !important;
 }
