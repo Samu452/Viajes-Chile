@@ -7,3 +7,7 @@ body {
   box-shadow: none !important;
   color: white !important;
 }
+
+#card2 {
+  height: 195px;
+}
