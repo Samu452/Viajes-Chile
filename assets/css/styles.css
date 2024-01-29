@@ -1,13 +1,9 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
 body {
   font-family: "Roboto", sans-serif;
 }
 
-#footer .iconos a{
-  color: white !important;
+#iconos {
   text-decoration: none !important;
+  box-shadow: none !important;
+  color: white !important;
 }
